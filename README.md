@@ -1,2 +1,10 @@
-# TBDR_implementation
- Data preparation and analysis files for doi: xyz
+# TBDR implementation in South Africa and Zambia
+This repository contains the data analysis code for the field evaluation described in the article:
+
+Schwab TC, Joseph L, Moono A, Göller PC, Motsei M, Muula G, et al. **Field evaluation of nanopore targeted next-generation sequencing to predict drug-resistant tuberculosis from native sputum in South Africa and Zambia**. Journal of Clinical Microbiology. 2025 Feb 12;63(3):e01390-24. 
+
+(https://journals.asm.org/doi/10.1128/jcm.01390-24)
+
+📌 Abstract
+
+Rapid and comprehensive drug susceptibility testing (DST) is essential for diagnosing and treating drug-resistant tuberculosis effectively, and next-generation sequencing can be an effective genotypic DST method. We implemented and evaluated the performance of a nanopore targeted sequencing assay, called the Tuberculosis Drug Resistance Test (TBDR, Oxford Nanopore Diagnostics, Ltd., United Kingdom), which predicts drug resistance to 16 TB drugs, at a South African reference laboratory and a district diagnostic laboratory in Zambia. We compared the sequencing success rates between unprocessed and decontaminated sputum samples and determined the diagnostic accuracy against local DST (Xpert MTB/RIF Ultra, Xpert MTB/XDR, and BD BACTEC MGIT phenotypic DST). We prospectively sequenced 236 samples and have 148 samples with sequencing results from unprocessed and decontaminated sputum. We obtained successful sequencing results from 66.4% (94/148) unprocessed sputum samples and 75% (111/148) decontaminated samples. Sequencing success rates at the two sites differed, with 50.7% (36/71) successful sequencing results from unprocessed sputum in Zambia and 75.3% (58/77) in South Africa. Samples with “low” bacterial load, measured by Xpert MTB/RIF Ultra, tended to produce fewer successful sequencing results. TBDR sequencing predicted resistances in 48 samples, detecting resistance for rifampicin (n = 41) and isoniazid (n = 20), as well as 10 second-line drugs (n = 15). Sensitivity was variable compared to phenotypic DST, ranging from 33 (ethionamide) to 94% (rifampicin), while specificity remained above 90% for all drugs, except clofazimine. The TBDR assay can provide rapid, comprehensive genotypic DST. Technical and operational challenges need to be addressed for its broader implementation in high tuberculosis-burden settings.
